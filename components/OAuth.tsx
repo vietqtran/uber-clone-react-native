@@ -16,7 +16,7 @@ const OAuth = () => {
       router.replace("/(root)/(tabs)/home");
     }
 
-    if(result.success) {
+    if (result.success) {
       router.replace("/(root)/(tabs)/home");
     }
   };
